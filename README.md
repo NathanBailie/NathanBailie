@@ -15,3 +15,9 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
 </div>
+
+### 💬 About Me :
+
+I am a self-taught programmer, mastering programming through textbooks, problem-solving, and project development. I enjoy the process of creating interfaces and the ability to see how the written code comes to life in real time, transforming into a website, game, or application.
+
+---
