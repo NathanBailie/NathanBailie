@@ -4,7 +4,7 @@
 
 # <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anton</div>
 
-<div id="profiles" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/anton-nefedov-2ab035273/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -18,7 +18,9 @@
 
 ### 💬 About Me :
 
+<p align="left">
 I am a self-taught programmer, mastering programming through textbooks, problem-solving, and project development. I enjoy the process of creating interfaces and the ability to see how the written code comes to life in real time, transforming into a website, game, or application.
+</p>
 
 ---
 
@@ -37,7 +39,7 @@ I am a self-taught programmer, mastering programming through textbooks, problem-
 
 ### 🛠 Tools:
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
 <img alt="vs code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" style="height: 30px;" />
 <img alt="linux mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff" style="height: 30px;" />
 <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" style="height: 30px;" />
