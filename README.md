@@ -37,6 +37,7 @@ I am a self-taught programmer, mastering programming through textbooks, problem-
 
 ### 🛠 Tools:
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
 <img alt="vs code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" style="height: 30px;" />
 <img alt="linux mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff" style="height: 30px;" />
 <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" style="height: 30px;" />
@@ -44,6 +45,7 @@ I am a self-taught programmer, mastering programming through textbooks, problem-
 <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" style="height: 30px;" />
 <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" style="height: 30px;" />
 <img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" style="height: 30px;" />
+</div>
 
 ---
 
