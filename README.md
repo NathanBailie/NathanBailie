@@ -46,3 +46,16 @@ I am a self-taught programmer, mastering programming through textbooks, problem-
 <img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" style="height: 30px;" />
 
 ---
+
+### 🔬 GitHub Statistics
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanBailie&theme=algolia" alt="my Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="Nathan's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NathanBailie&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
