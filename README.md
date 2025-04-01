@@ -5,6 +5,9 @@
 # <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anton</div>
 
 <div align="center">
+  <!-- <a href="https://www.linkedin.com/in/anton-nefedov-2ab035273/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> -->
   <a href="https://www.codewars.com/users/Nathan_Bailie">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   </a>
@@ -23,20 +26,23 @@ I am a self-taught programmer, mastering programming through textbooks, problem-
 
 ### 💻 Tech Stack:
 
-<img alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-<img alt="css3" src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
-<img alt="java script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-<img alt="type script" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;
-<img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp;
-<img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />&nbsp;
-<img alt="react testing library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />&nbsp;
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<img alt="html5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" style="height: 30px;" />
+<img alt="css3" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" style="height: 30px;" />
+<img alt="sass" src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" style="height: 30px;" />
+<img alt="java-script" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" style="height: 30px;" />
+<img alt="type-script" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" style="height: 30px;" />
+<img alt="react" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" style="height: 30px;" />
+<img alt="redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)" style="height: 30px;" />
+<img alt="vue-js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)" style="height: 30px;" />
+<img alt="jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)" style="height: 30px;" />
+<img alt="react testing library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" style="height: 30px; border-radius: 5px"/> 
+<img alt="markdown" src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff" style="height: 30px;" />
+</div>
 
 ### 🛠 Tools:
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img alt="vs code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" style="height: 30px;" />
 <img alt="linux mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff" style="height: 30px;" />
 <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" style="height: 30px;" />
@@ -44,6 +50,7 @@ I am a self-taught programmer, mastering programming through textbooks, problem-
 <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" style="height: 30px;" />
 <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" style="height: 30px;" />
 <img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" style="height: 30px;" />
+<img alt="markdown" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" style="height: 30px;" />
 </div>
 
 ---
@@ -53,11 +60,12 @@ I am a self-taught programmer, mastering programming through textbooks, problem-
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanBailie&theme=algolia" alt="my Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanBailie&theme=catppuccin-mocha" alt="my Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="Nathan's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NathanBailie&theme=algolia&layout=compact" />
+      <img height="195px" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBailie&hide_progress=true&bg_color=1E1E2E&text_color=CDD6F4&title_color=CDD6F4" />
     </td>
+
   </tr>
 </table>
 
