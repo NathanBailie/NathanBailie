@@ -5,9 +5,9 @@
 # <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anton</div>
 
 <div align="center">
-  <!-- <a href="https://www.linkedin.com/in/anton-nefedov-2ab035273/">
+  <a href="https://www.linkedin.com/in/anton-nefedov-b10898364">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
+  </a>
   <a href="https://www.codewars.com/users/Nathan_Bailie">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   </a>
@@ -19,7 +19,7 @@
 ### 💬 About Me :
 
 <p align="left">
-I am a self-taught programmer, mastering programming through textbooks, problem-solving, and project development. I enjoy the process of creating interfaces and the ability to see how the written code comes to life in real time, transforming into a website, game, or application.
+Frontend developer specializing in React and JavaScript. Focused on performance, clean code, and scalable architecture. Creating reusable UI solutions that ensure flexibility and adaptability of the product.
 </p>
 
 ---
