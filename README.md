@@ -11,7 +11,7 @@
   <a href="https://www.codewars.com/users/Nathan_Bailie">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Nathan-Bailie/">
+  <a href="https://leetcode.com/u/Nathan_Bailie/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
 </div>
