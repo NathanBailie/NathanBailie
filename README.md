@@ -5,7 +5,7 @@
 # <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anton</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anton-nefedov-b10898364">
+  <a href="https://www.linkedin.com/in/anton-nefedov-nb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codewars.com/users/Nathan_Bailie">
