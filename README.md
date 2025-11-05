@@ -5,6 +5,12 @@
 # <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anton</div>
 
 <div align="center">
+  <a href="https://www.codewars.com/users/Anton_Nefedov">
+    <img src="https://www.codewars.com/users/Anton_Nefedov/badges/large" alt="CodeWars Badge"/>
+  </a>
+</div>
+
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/anton-nefedov-nb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,7 +20,7 @@
   <a href="https://leetcode.com/u/Nathan_Bailie/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
-</div>
+</div> -->
 
 ### 💬 About Me :
 
