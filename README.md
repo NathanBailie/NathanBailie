@@ -10,14 +10,12 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
+<div align="center" style="display: flex; gap: 10px; justify-content: center; margin-top: 10px">
   <a href="https://www.linkedin.com/in/anton-nefedov-nb/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://leetcode.com/u/Anton_Nefedov/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
   </a>
 </div>
 
