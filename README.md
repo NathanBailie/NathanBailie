@@ -27,8 +27,6 @@ Full-Stack Engineer committed to clean architecture and performance. Specializin
 
 ---
 
-<br/>
-
 ### 📜 Languages:
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -38,8 +36,6 @@ Full-Stack Engineer committed to clean architecture and performance. Specializin
 </div>
 
 ---
-
-<br/>
 
 ### 🖥️ Frontend
 
@@ -60,8 +56,6 @@ Full-Stack Engineer committed to clean architecture and performance. Specializin
 
 ---
 
-<br/>
-
 ### ⛓️ Backend
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -80,8 +74,6 @@ Full-Stack Engineer committed to clean architecture and performance. Specializin
 
 ---
 
-<br/>
-
 ### 🔬 Testing
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -93,8 +85,6 @@ Full-Stack Engineer committed to clean architecture and performance. Specializin
 </div>
 
 ---
-
-<br/>
 
 ### ⚙️ DevOps
 
@@ -108,8 +98,6 @@ Full-Stack Engineer committed to clean architecture and performance. Specializin
 
 ---
 
-<br/>
-
 ### 🧠 AI
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -120,8 +108,6 @@ Full-Stack Engineer committed to clean architecture and performance. Specializin
 </div>
 
 ---
-
-<br/>
 
 ### 🔧 Other tools
 
@@ -138,8 +124,6 @@ Full-Stack Engineer committed to clean architecture and performance. Specializin
 
 ---
 
-<br/>
-
 ### 🔬 GitHub Statistics
 
 <table>
@@ -155,7 +139,5 @@ Full-Stack Engineer committed to clean architecture and performance. Specializin
 </table>
 
 ---
-
-<br/>
 
 ![Snake animation](https://raw.githubusercontent.com/NathanBailie/NathanBailie/output/github-contribution-grid-snake-dark.svg)
